@@ -20,49 +20,56 @@ O objetivo é simular o gerenciamento de usuários, livros e operações como em
 ### 👤 Cadastro de Usuário
 Permite o registro de usuários no sistema, armazenando informações básicas necessárias para o uso da biblioteca.
 
- <img src="imagens/cadastro_usuario.png" width="650">
+ <img src="src/biblioteca/imagens/cadastro_usuario.png" width="650">
 
 ---
 
 ### 📘 Cadastro de Livro
 Tela destinada ao cadastro de livros, com informações como título, autor e código identificador.
 
-<img src="imagens/cadastro_livro.png" width="650">
+<img src="src/biblioteca/imagens/cadastro_livro.png" width="650">
 
 ---
 
 ### 🔄 Empréstimo de Livro
 Funcionalidade responsável por realizar o empréstimo de livros aos usuários cadastrados.
 
-<img src="imagens/emprestimo.png" width="650">
+<img src="src/biblioteca/imagens/emprestimo.png" width="650">
 
 ---
 
 ### 📥 Devolução de Livro
 Permite registrar a devolução de livros emprestados anteriormente.
 
-<img src="imagens/devolucao.png" width="650">
+<img src="src/biblioteca/imagens/devolucao.png" width="650">
 
 ---
 
 ### 🗂️ Arquivos
 Área destinada à visualização e organização de registros ou dados do sistema.
 
-<img src="imagens/arquivos.png" width="650">
+<img src="src/biblioteca/imagens/arquivos.png" width="650">
 
 ---
 
 ### 🧰 Ferramentas
 Conjunto de opções auxiliares para gerenciamento do sistema.
  
- <img src="imagens/ferramentas.png" width="650">
+ <img src="src/biblioteca/imagens/ferramentas.png" width="650">
 
 ---
 
 ### ❓ Ajuda
 Tela de suporte ao usuário, com instruções básicas de uso do sistema.
 
-<img src="imagens/ajuda.png" width="650">
+<img src="src/biblioteca/imagens/ajuda.png" width="650">
+
+---
+
+### 🔍 Busca de Livros
+Permitir a localização de livros cadastrados no sistema, facilitando a consulta por informações como título, autor ou código identificador.
+
+<img src="src/biblioteca/imagens/busca.png" width="650">
 
 ---
 
